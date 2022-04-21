@@ -1,0 +1,6 @@
+venv/
+
+.vscode/
+*.code-workspace
+*.csv
+*.txt
